@@ -1,2 +1,1 @@
-# trybe-exercicios
-praticando 
+Meu repositorio de exercicios
